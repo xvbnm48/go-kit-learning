@@ -1,0 +1,47 @@
+[33mcommit a600c2a26f39f6186c35224989252fce86d119c7[m[33m ([m[1;36mHEAD -> [m[1;32mfarizzz[m[33m)[m
+Author: xvbnm48 <muhamadfarizwisnuprananda@gmail.com>
+Date:   Thu Sep 29 20:00:00 2022 +0700
+
+    push sunday
+
+[33mcommit 1add68612fa51ceba5bfc05a19b62e4d4702b176[m[33m ([m[1;31morigin/farizzz[m[33m)[m
+Author: xvbnm48 <muhamadfarizwisnuprananda@gmail.com>
+Date:   Sat Oct 22 20:00:00 2022 +0700
+
+    push saturday
+
+[33mcommit baea2160bc75358a44eb4da9a63055342de56f97[m
+Author: xvbnm48 <muhamadfarizwisnuprananda@gmail.com>
+Date:   Fri Oct 21 20:00:00 2022 +0700
+
+    push frri
+
+[33mcommit 0487fee6c0d7748092a45a094a907717c20781b6[m
+Author: xvbnm48 <muhamadfarizwisnuprananda@gmail.com>
+Date:   Thu Oct 20 20:00:00 2022 +0700
+
+    push thursdat
+
+[33mcommit 863bc441d88ff2c23584874c577fb50464ad4c95[m
+Author: xvbnm48 <muhamadfarizwisnuprananda@gmail.com>
+Date:   Thu Oct 20 20:00:00 2022 +0700
+
+    push thursday
+
+[33mcommit 802fbe382d494a2b898dc9b8f96409a33575af5a[m
+Author: xvbnm48 <muhamadfarizwisnuprananda@gmail.com>
+Date:   Wed Oct 19 20:00:00 2022 +0700
+
+    push thursday
+
+[33mcommit 2c7f3d6b1d5f70aaec9b4fd073334e81bf312b23[m
+Author: xvbnm48 <muhamadfarizwisnuprananda@gmail.com>
+Date:   Sun Oct 9 20:00:00 2022 +0700
+
+    push sunday
+
+[33mcommit fffa7c876a96f1c3195cca2e3646a38368c88209[m
+Author: xvbnm48 <muhamadfarizwisnuprananda@gmail.com>
+Date:   Fri Sep 30 18:13:59 2022 +0700
+
+    learn go kit
