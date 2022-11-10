@@ -6,4 +6,4 @@ uuid to area id msb and area id lsb!!apa it
 
 
 apa itu grpc ? 
-grpc adalah sebuah metode transfer data untuk sebuah service
+grpc adalah sebuah metode transfer data untuk sebuah service dan membuat sebuah microservice
