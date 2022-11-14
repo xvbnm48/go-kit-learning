@@ -9,3 +9,5 @@ apa itu grpc ?
 grpc adalah sebuah metode transfer data untuk sebuah service dan membuat sebuah microservice
 
 golang for grpc!!
+
+today tryto fix error deploy because error version proto maybe
