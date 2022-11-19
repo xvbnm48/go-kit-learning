@@ -41,4 +41,6 @@ func main() {
 	}()
 
 	log.Printf("terminated %s", <-errs)
+
+	// Path: main.go
 }
