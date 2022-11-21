@@ -43,8 +43,5 @@ func main() {
 	log.Printf("terminated %s", <-errs)
 
 	// Path: main.go
-<<<<<<< HEAD
-	// Compare this snippet from service_test.go:
-=======
->>>>>>> a80e31ee22312e0adfdb8f0c19bd991ecd5e43a5
+	// Compare this snippet from service_test.go:a
 }
