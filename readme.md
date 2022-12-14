@@ -12,5 +12,4 @@ golang for grpc!!
 
 today tryto fix error deploy because error version proto maybe
 
-
-error proto fix!!!!
+udah fix error
