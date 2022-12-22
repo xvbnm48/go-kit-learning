@@ -1,6 +1,6 @@
 learning go kit and go web scraping!!
 
-get task for make api with grpc, and go kit. Collbarotation with team bbd!!!!!!!
+get task for make api with grpc, and go kit. Collbarotation with team bbd!
 
 uuid to area id msb and area id lsb!!apa it
 
